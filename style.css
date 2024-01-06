@@ -91,3 +91,12 @@ font-size: 18px;
 font-weight: 400;
 line-height: 30px; 
 }
+/*  section 2 */
+#What-ido{
+  padding: 30px 150px ;
+
+}
+/*  section 2 */
+.skills-container{
+    display: flex;
+}
