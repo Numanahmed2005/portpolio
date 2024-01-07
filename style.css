@@ -100,3 +100,9 @@ line-height: 30px;
 .skills-container{
     display: flex;
 }
+/*  resume style  */
+.resume-column-style{
+    color:  #474747;
+font-size: 25px;
+font-weight: 700;
+}
